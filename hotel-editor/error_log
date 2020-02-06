@@ -1,0 +1,10 @@
+[05-Feb-2019 18:55:38 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/theadamsheardco/public_html/hotel-editor/add-room-type.php on line 19
+[05-Feb-2019 18:55:40 UTC] PHP Parse error:  syntax error, unexpected 'isset' (T_ISSET) in /home/theadamsheardco/public_html/hotel-editor/add-room-type.php on line 19
+[05-Feb-2019 18:56:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/theadamsheardco/public_html/hotel-editor/add-room-type.php on line 28
+[21-Feb-2019 16:08:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/theadamsheardco/public_html/hotel-editor/add-staff.php on line 27
+[21-Feb-2019 16:09:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/theadamsheardco/public_html/hotel-editor/add-staff.php on line 27
+[21-Feb-2019 16:10:26 UTC] PHP Warning:  implode(): Argument must be an array in /home/theadamsheardco/public_html/hotel-editor/add-staff.php on line 8
+[21-Feb-2019 16:10:42 UTC] PHP Warning:  implode(): Argument must be an array in /home/theadamsheardco/public_html/hotel-editor/add-staff.php on line 8
+[21-Feb-2019 16:10:51 UTC] PHP Warning:  implode(): Argument must be an array in /home/theadamsheardco/public_html/hotel-editor/add-staff.php on line 8
+[21-Feb-2019 16:11:26 UTC] PHP Warning:  implode(): Argument must be an array in /home/theadamsheardco/public_html/hotel-editor/add-staff.php on line 8
+[21-Feb-2019 16:14:57 UTC] PHP Warning:  implode(): Argument must be an array in /home/theadamsheardco/public_html/hotel-editor/add-staff.php on line 8
